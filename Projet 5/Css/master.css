@@ -1,0 +1,56 @@
+body{
+  background: #fac9c5;
+}
+h1{
+  color : #045e66;
+}
+.moral {
+  border: 2px solid red;
+  border-radius: 4px;
+  padding: 4px;
+}
+section{
+  min-height: 40vh
+}
+
+.content{
+  max-width: 840px
+}
+
+
+
+#fable01 {
+  background: #dafaf8;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#fable01 h1{
+  font-size: 50px
+}
+
+
+#fable02 {
+  background: #e0ba5a;
+  padding: 32px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+#fable02 h1{
+  font-size: 50px
+}
+
+#fable03 {
+  background: #7e75f0;
+  padding: 32px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#fable03 h1{
+  font-size: 50px
+}
